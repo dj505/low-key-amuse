@@ -484,36 +484,7 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "Big Power",
-        "pattern": "+5V"
-      },
-      {
-        "netclass": "Big Power",
-        "pattern": "GND"
-      },
-      {
-        "netclass": "Smol Power",
-        "pattern": "+3V3"
-      },
-      {
-        "netclass": "Smol Power",
-        "pattern": "+1V1"
-      },
-      {
-        "netclass": "Big Power",
-        "pattern": "Net-(F1-Pad1)"
-      },
-      {
-        "netclass": "Differential",
-        "pattern": "USB D-"
-      },
-      {
-        "netclass": "Differential",
-        "pattern": "USB D+"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
