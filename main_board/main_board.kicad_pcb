@@ -4942,7 +4942,7 @@
     (descr "Mounting Hole 2.1mm, no annular")
     (tags "mounting hole 2.1mm no annular")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 -3.2) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -3.2) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 02eb6dd1-38c5-46a4-8df4-a1825e84a798)
     )
@@ -9248,6 +9248,9 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp c22d7c14-86a3-4c86-8d19-44e4e516754c))
   (gr_line (start 135 38) (end 111 38)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp f9c83f44-091b-48e8-a2a5-cc1de1a79dd3))
+  (gr_text "JLCJLCJLCJLC" (at 122.936 88.392) (layer "B.SilkS") (tstamp 0eeaa3a6-2f6e-47b8-bedc-943bebb2bf20)
+    (effects (font (size 1 1) (thickness 0.15)) (justify bottom mirror))
+  )
   (gr_text "by dj505 & clue" (at 122.936 90.5764) (layer "F.SilkS") (tstamp 9f1cc085-6074-4efb-883f-bb8d67e3f0bc)
     (effects (font (size 0.75 0.75) (thickness 0.15)) (justify bottom))
   )
