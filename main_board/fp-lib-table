@@ -3,4 +3,5 @@
   (lib (name "RP2040_minimal")(type "KiCad")(uri "C:/Users/jayde/Documents/KiCadFootprints/RP2040/Minimal/RP2040_minimal/RP2040_minimal.pretty")(options "")(descr ""))
   (lib (name "Edge Connector")(type "KiCad")(uri "D:/low-key-amuse/footprints/Edge Connector.pretty")(options "")(descr ""))
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "D:/low-key-amuse/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "low-key-amuse")(type "KiCad")(uri "D:/low-key-amuse/footprints/low-key-amuse.pretty")(options "")(descr ""))
 )

@@ -1,4 +1,6 @@
 (fp_lib_table
+  (version 7)
   (lib (name "Edge Connector")(type "KiCad")(uri "D:/low-key-amuse/footprints/Edge Connector.pretty")(options "")(descr ""))
   (lib (name "Silkscreen")(type "KiCad")(uri "D:/low-key-amuse/footprints/Silkscreen.pretty")(options "")(descr ""))
+  (lib (name "low-key-amuse")(type "KiCad")(uri "D:/low-key-amuse/footprints/low-key-amuse.pretty")(options "")(descr ""))
 )
