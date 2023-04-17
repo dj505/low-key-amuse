@@ -536,7 +536,7 @@
     (property "Value" "Conn_01x16" (at 154.94 113.03 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Edge Connector:1.0mm Pitch Edge Connector 01x16" (at 156.21 106.68 0)
+    (property "Footprint" "Connector_FFC-FPC:TE_1-84952-6_1x16-1MP_P1.0mm_Horizontal" (at 156.21 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 156.21 106.68 0)
