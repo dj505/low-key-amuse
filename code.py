@@ -16,8 +16,9 @@ led.direction = digitalio.Direction.OUTPUT
 # Config
 player_side = 1
 
-# Pin mappings correspond to keypad keys
-# left to right, top to bottom
+# Pin mappings correspond to keypad keys from left to right, top to bottom.
+# Most of the keycodes you'll need can be found at:
+# https://docs.circuitpython.org/projects/hid/en/latest/_modules/adafruit_hid/keycode.html
 pin_mapping_p1 = {
     3:  Keycode.KEYPAD_SEVEN,
     4:  Keycode.KEYPAD_EIGHT,
