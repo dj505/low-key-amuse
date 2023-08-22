@@ -1,5 +1,7 @@
 # low-key-amuse
-A low-key e-amusement keypad for DDR cabs (and other cabs? :eyes:)
+A low-key e-amusement keypad for DDR cabs (and other cabs? :eyes:)  
+![low-key-amuse](https://github.com/dj505/low-key-amuse/assets/7433694/1c3370ba-a7a8-468d-b17d-9ddef1876e4a)  
+(Dimensions may vary with revisions!)
 
 # Bill of Materials
 |           Part           | Qty |              Description              |
